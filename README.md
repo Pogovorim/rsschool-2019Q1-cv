@@ -1,1 +1,0 @@
-[https://Pogovorim.github.io/rsschool-2019Q1-cv/cv](https://Pogovorim.github.io/rsschool-2019Q1-cv/cv)
