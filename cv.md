@@ -1,7 +1,11 @@
 ## This is my first front-end resume
+
 **Stanislav Sokolov** :bowtie:
+
 **My email**: foremail@mail.ru,
+
 **My mobile phone number**: +375297067567
+
 **Summary**:
 I see how world is changing and IT is progressing everywhere. High technologies, Robotics, Cryptocurrency, Artificial intelligence move world forward very quickly. According to that, i have a question to myself: what will be my function in this future?  So i think the most smarter decision is to be a part of this community. Now this is my main purpose of training in EPAM. :fireworks:  
 
